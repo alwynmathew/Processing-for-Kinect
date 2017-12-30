@@ -6,6 +6,9 @@ Install/Remove Processing for Ubuntu 16.04
 
 ```RemoveProcessing.sh``` - Remove processing
 ## Install
+
+Change permission of these file to "Allow executing file as program"
+
 ```sudo ./InstallProcessing.sh```
 
 ## Remove 
